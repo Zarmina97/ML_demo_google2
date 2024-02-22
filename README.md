@@ -21,7 +21,7 @@
         <li><strong>Trend Analysis:</strong> Understand buying trends over time during Black Friday to adapt sales and marketing strategies.</li>
     </ul>
 
-<h1 id=#eda>Black Friday Dataset Analysis <a href="eda.ipynb">EDA</a></h1>
+<h1 id='eda'>Black Friday Dataset Analysis <a href="eda.ipynb">EDA</a></h1>
 <p>Let's analyse just the <code>train</code> dataset for now. Here are some key observations:</p>
 
 <h2>Observations</h2>
@@ -50,7 +50,7 @@
 <h2>EDA Conclusion</h2>
 <p>These insights provide a valuable understanding of the purchasing patterns within the <code>train</code> dataset, indicating specific trends in user behavior, demographic preferences, and financial expenditure.</p>
 
-<h1 id=regression_models>Black Friday - Regression models <a href="feature engineering & models.ipynb">Feature engineering & models</a></h1>
+<h1 id='regression_models'>Black Friday - Regression models <a href="feature engineering & models.ipynb">Feature engineering & models</a></h1>
 Problem: Predict purchase amount.
     <h2>Machine Learning Use Case</h2>
     <p>To address this challenge, we employ several machine learning techniques, including linear regression, Lasso, Ridge, decision trees, Random Forest, Gradient Boosting Machine (GBM), XGBoost, LightGBM, and CatBoost. These models are used to predict the amount of purchases based on variables such as customer demographics, product information, and previous purchasing trends. Using a wide range of models allows us to assess which method provides the most accurate predictions and to identify the most significant factors influencing purchasing decisions.</p>
