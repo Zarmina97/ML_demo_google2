@@ -6,10 +6,9 @@
 <h2>Observations</h2>
     <ul>
         <li><strong>User ID 1001680</strong> has the <strong>highest purchase count</strong> in the dataset, whereas <strong>User ID 1000708</strong> has the <strong>lowest</strong>.</li>
-        <li><strong>Male customers</strong> have a higher purchase volume and also contribute to a greater financial expenditure overall.
+        <li><strong>Male customers</strong> have a higher purchase volume and also contribute to a greater financial expenditure overall.</li>
             <figure><img src="res/data exploration/gender_n_purchases.png" width=200, height=100></figure>
-            <figure><img src="res/data exploration/gender_avg_purchases.png" width=200, height=100></figure>figure
-        </li>
+            <figure><img src="res/data exploration/gender_avg_purchases.png" width=200, height=100></figure>
         <li>The <strong>26-35 age bracket</strong> shows the highest quantity of items purchased, yet the expenditure is relatively uniform across all age groups.</li>
         <li>Individuals with <strong>occupation code 4</strong> stand out for purchasing significantly more items, though the spending is fairly consistent across different occupations.</li>
         <li><strong>City category B</strong> leads in the number of items purchased, while category C exhibits higher spending.</li>
