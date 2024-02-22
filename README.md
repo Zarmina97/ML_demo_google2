@@ -14,4 +14,4 @@ Let's analyse just the `df_train` dataset for now. Here are some key observation
 - **Single individuals** make more purchases, but the expenditure is comparable to that of individuals who are married.
 
 ## Conclusion
-These insights provide a valuable understanding of the purchasing patterns within the `df_train` dataset, indicating specific trends in user behavior, demographic preferences, and financial expenditure.
+These insights provide a valuable understanding of the purchasing patterns within the `train` dataset, indicating specific trends in user behavior, demographic preferences, and financial expenditure.
