@@ -3,8 +3,14 @@
   <p><strong>Predicting Purchase amount for Black Friday data.</strong></p>
   <p>Tools used: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn</p>
 </div>
-
-<h1>Introduction</h1>
+  <h2>Sections:</h2>
+  <ul>
+    <li><a src=#intro>Exploratory Data Analysis</a></li>
+    <li>Preprocessing and Feature Selection</li>
+    <li>Model Building and Evaluation</li>
+    <li>Final Prediction</li>
+  </ul>
+<h1 class='intro'>Introduction</h1>
 <p>The classic Black Friday dataset is commonly used for data science and machine learning analyses, especially in challenges and projects that aim to understand consumer purchasing behaviour.</p>
     <h2>Business Objectives</h2>
      <ul>
