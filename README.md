@@ -8,6 +8,7 @@
         <li><strong>Increased Sales:</strong> Identify the factors that most influence purchasing decisions to develop targeted promotions and increase sales.</li>
         <li><strong>Trend Analysis:</strong> Understand buying trends over time during Black Friday to adapt sales and marketing strategies.</li>
     </ul>
+
 <h1>Black Friday Dataset Analysis: <a href="eda.ipynb">EDA</a></h1>
 <p>Let's analyse just the <code>train</code> dataset for now. Here are some key observations:</p>
 
@@ -37,10 +38,11 @@
 <h2>EDA Conclusion</h2>
 <p>These insights provide a valuable understanding of the purchasing patterns within the <code>train</code> dataset, indicating specific trends in user behavior, demographic preferences, and financial expenditure.</p>
 
-<h1>Black Friday - Regression models: <a href="feature engineering & models.ipynb">EDA</a></h1>
+<h1>Black Friday - Regression models: <a href="feature engineering & models.ipynb">Feature engineering & models</a></h1>
 Problem: Predict purchase amount.
-
-
-
+    <h2>Machine Learning Use Case</h2>
+    <p>To address this challenge, we employ several machine learning techniques, including linear regression, Lasso, Ridge, decision trees, Random Forest, Gradient Boosting Machine (GBM), XGBoost, LightGBM, and CatBoost. These models are used to predict the amount of purchases based on variables such as customer demographics, product information, and previous purchasing trends. Using a wide range of models allows us to assess which method provides the most accurate predictions and to identify the most significant factors influencing purchasing decisions.</p>
+    <h2>Addressing the Business Goal with Machine Learning</h2>
+    <p>The machine learning solution is expected to address the business goal by providing accurate predictions on the amount of customer purchases during Black Friday. By analysing predictive results from different models (Linear, Lasso, Ridge, Tree, RF, GBM, XGB, LGB, CB) compared to the original test data, we can identify which demographic factors and product categories have the greatest influence on purchase decisions. This allows us to customise offers for different customer segments, optimise stock based on demand forecasts and develop targeted marketing strategies to increase sales. Furthermore, by understanding purchasing trends over time, we can adapt our strategies to anticipate customer needs in future Black Friday events.</p>
 </body>
 </html>
