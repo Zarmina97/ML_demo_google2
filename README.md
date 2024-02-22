@@ -10,7 +10,7 @@
     <li>Model Building and Evaluation</li>
     <li>Final Prediction</li>
   </ul>
-<h1 class='intro'>Introduction</h1>
+<h1 id='intro'>Introduction</h1>
 <p>The classic Black Friday dataset is commonly used for data science and machine learning analyses, especially in challenges and projects that aim to understand consumer purchasing behaviour.</p>
     <h2>Business Objectives</h2>
      <ul>
@@ -21,7 +21,7 @@
         <li><strong>Trend Analysis:</strong> Understand buying trends over time during Black Friday to adapt sales and marketing strategies.</li>
     </ul>
 
-<h1 class=#eda>Black Friday Dataset Analysis: <a href="eda.ipynb">EDA</a></h1>
+<h1 id=#eda>Black Friday Dataset Analysis: <a href="eda.ipynb">EDA</a></h1>
 <p>Let's analyse just the <code>train</code> dataset for now. Here are some key observations:</p>
 
 <h2>Observations</h2>
