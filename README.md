@@ -1,7 +1,14 @@
+<h1>Introduction</h1>
+<p>The classic Black Friday dataset is commonly used for data science and machine learning analyses, especially in challenges and projects that aim to understand consumer purchasing behaviour.</p>
+    <h2>Business Objectives</h2>
+     <ul>
+        <li><strong>Understanding Consumer Behaviour:</strong> Identifying which products are most popular among different age groups, genders, and other demographic segments.</li>
+        <li><strong>Customer Segmentation:</strong> Classifying customers into groups based on purchasing behaviour and preferences to customise offers and improve marketing strategies.</li>
+        <li><strong>Stock Optimisation:</strong> Forecast demand for different product categories to better manage inventory.</li>
+        <li><strong>Increased Sales:</strong> Identify the factors that most influence purchasing decisions to develop targeted promotions and increase sales.</li>
+        <li><strong>Trend Analysis:</strong> Understand buying trends over time during Black Friday to adapt sales and marketing strategies.</li>
+    </ul>
 <h1>Black Friday Dataset Analysis: <a href="eda.ipynb">EDA</a></h1>
-
-<h2>Introduction</h2>
-<p></p>
 <p>Let's analyse just the <code>train</code> dataset for now. Here are some key observations:</p>
 
 <h2>Observations</h2>
@@ -27,7 +34,13 @@
             <figure><img src="res/data exploration/mstatus_avg_purchases.png" width=400, height=250></figure>
     </ul>
 
-<h2>Conclusion</h2>
+<h2>EDA Conclusion</h2>
 <p>These insights provide a valuable understanding of the purchasing patterns within the <code>train</code> dataset, indicating specific trends in user behavior, demographic preferences, and financial expenditure.</p>
+
+<h1>Black Friday - Regression models: <a href="feature engineering & models.ipynb">EDA</a></h1>
+Problem: Predict purchase amount.
+
+
+
 </body>
 </html>
