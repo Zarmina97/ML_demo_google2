@@ -1,4 +1,4 @@
-# Dataset Analysis: df_train [EDA](eda.ipynb)
+# Black Friday Dataset Analysis: [EDA](eda.ipynb)
 
 ## Introduction
 Let's analyse just the `df_train` dataset for now. Here are some key observations:
@@ -7,6 +7,7 @@ Let's analyse just the `df_train` dataset for now. Here are some key observation
 
 - **User ID 1001680** has the **highest purchase count** in the dataset, whereas **User ID 1000708** has the **lowest**.
 - **Male customers** have a higher purchase volume and also contribute to a greater financial expenditure overall.
+![](res\data exploration\gender_n_purchases.png)![](res\data exploration\gender_avg_purchases.png)
 - The **26-35 age bracket** shows the highest quantity of items purchased, yet the expenditure is relatively uniform across all age groups.
 - Individuals with **occupation code 4** stand out for purchasing significantly more items, though the spending is fairly consistent across different occupations.
 - **City category B** leads in the number of items purchased, while category C exhibits higher spending.
