@@ -6,7 +6,7 @@
   <h2>Sections:</h2>
   <ul>
     <li><a href=#intro>Introduction</a></li>
-    <li>Preprocessing and Feature Selection</li>
+    <li><a href=#intro>dataset analysis</a></li>
     <li>Model Building and Evaluation</li>
     <li>Final Prediction</li>
   </ul>
@@ -21,7 +21,7 @@
         <li><strong>Trend Analysis:</strong> Understand buying trends over time during Black Friday to adapt sales and marketing strategies.</li>
     </ul>
 
-<h1>Black Friday Dataset Analysis: <a href="eda.ipynb">EDA</a></h1>
+<h1 class=#eda>Black Friday Dataset Analysis: <a href="eda.ipynb">EDA</a></h1>
 <p>Let's analyse just the <code>train</code> dataset for now. Here are some key observations:</p>
 
 <h2>Observations</h2>
