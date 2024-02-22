@@ -5,7 +5,7 @@
 </div>
   <h2>Sections:</h2>
   <ul>
-    <li><a src=#intro>Exploratory Data Analysis</a></li>
+    <li><a href=#intro>Introduction</a></li>
     <li>Preprocessing and Feature Selection</li>
     <li>Model Building and Evaluation</li>
     <li>Final Prediction</li>
